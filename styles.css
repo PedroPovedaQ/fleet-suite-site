@@ -2470,3 +2470,14 @@ p {
     align-items: flex-start;
   }
 }
+
+.mc-field-group {
+  display: inline-flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#mc-embedded-subscribe {
+  clear: inherit !important;
+  margin: 0 !important;
+}
