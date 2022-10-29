@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PedroPovedaQ/fleet-suite-site/issues"
   },
-  "homepage": "https://github.com/PedroPovedaQ/fleet-suite-site#readme"
+  "homepage": "https://github.com/PedroPovedaQ/fleet-suite-site#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
